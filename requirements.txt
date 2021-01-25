@@ -1,0 +1,5 @@
+scikit-learn==0.21.3
+numpy==1.17.3
+cvxpy==1.0.25
+pandas==0.23.4
+rpy2==3.2.1
